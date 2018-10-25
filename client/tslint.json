@@ -1,0 +1,14 @@
+{
+    "extends": ["tslint:recommended", "tslint-react"],
+    "rules": {
+        "no-console": false,
+        "ordered-imports": false,
+        "trailing-comma": false,
+        "eofline": false,
+        "indent": [false, "tabs"],
+        "comment-format": false,
+        "object-literal-sort-keys": false,
+        "object-literal-key-quotes": false,
+        "no-shadowed-variable": false
+    }
+}

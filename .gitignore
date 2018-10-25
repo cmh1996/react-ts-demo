@@ -1,0 +1,7 @@
+client/node_modules/
+client/dist/
+client/.cache-loader/
+client/npm-debug.log
+server/node_modules/
+
+.vscode
